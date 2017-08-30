@@ -1,0 +1,13 @@
+kind: Ingress
+apiVersion: extensions/v1beta1
+metadata:
+  name: firebase-auth
+  namespace: firebase-auth
+spec:
+  rules:
+  - host: auth.wiresafe.com
+    http:
+      paths:
+      - backend:
+          serviceName: firebase-auth
+          servicePort: 80

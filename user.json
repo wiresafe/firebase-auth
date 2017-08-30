@@ -1,0 +1,29 @@
+{
+    "uid": "WZwzngM0uDdP3V19JSEYCDgjGqr2",
+    "displayName": "Dave Duran",
+    "photoURL": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+    "email": "dave@wiresafe.com",
+    "emailVerified": true,
+    "phoneNumber": null,
+    "isAnonymous": false,
+    "providerData": [
+        {
+            "uid": "100177425307025666716",
+            "displayName": "Dave Duran",
+            "photoURL": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+            "email": "dave@wiresafe.com",
+            "phoneNumber": null,
+            "providerId": "google.com"
+        }
+    ],
+    "apiKey": "AIzaSyBvhnF3Yu001L4vUrWpibWMx_2nrQfHQiM",
+    "appName": "[DEFAULT]",
+    "authDomain": "wiresafe-project.firebaseapp.com",
+    "stsTokenManager": {
+        "apiKey": "AIzaSyBvhnF3Yu001L4vUrWpibWMx_2nrQfHQiM",
+        "refreshToken": "APRrRCKVWZ4f7RumiYYupmr4bhIyklVlPaq2j-IgXZacd-5Eosq_FTbZbDqkMZeGQaInJE5RuFNGDnstlDjTzB2VP05ev-rj_Mm6D0Ww_ijtMYLz2WXVJ6uHULhrL0WsqB_tWJEibhJ7dCd4egAiyZDCtcjlAYAAY25OKMoUzrv9wtzjGnjQeTkTLSJU1ZDyAz3vMzMYRQMs5cAvCzvIqFIfDzPn7h6-58OxIoJlFlKAiEwf9hCnbjkCzW14D2uyCQBncF6IFmkQNIoQicTYlIfrvBdr-oCFt407QpaArxl65HGi0TIGmRsqwXDcD7xmD77g2pE9oCQV2M_iNN4jBeYlCKnLB8fxNgWBFRke3-edHebmiRptJQw",
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZhZGNmOGMyOWE3YzFkMTUxZjliYTllODkzNmI0ZTY2ODE0ZWMxOTQifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vd2lyZXNhZmUtcHJvamVjdCIsIm5hbWUiOiJEYXZlIER1cmFuIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS8tWGRVSXFkTWtDV0EvQUFBQUFBQUFBQUkvQUFBQUFBQUFBQUEvNDI1MnJzY2J2NU0vcGhvdG8uanBnIiwiYXVkIjoid2lyZXNhZmUtcHJvamVjdCIsImF1dGhfdGltZSI6MTUwNDA1OTgyNSwidXNlcl9pZCI6Ildad3puZ00wdURkUDNWMTlKU0VZQ0RnakdxcjIiLCJzdWIiOiJXWnd6bmdNMHVEZFAzVjE5SlNFWUNEZ2pHcXIyIiwiaWF0IjoxNTA0MDU5ODI1LCJleHAiOjE1MDQwNjM0MjUsImVtYWlsIjoiZGF2ZUB3aXJlc2FmZS5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjEwMDE3NzQyNTMwNzAyNTY2NjcxNiJdLCJlbWFpbCI6WyJkYXZlQHdpcmVzYWZlLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6Imdvb2dsZS5jb20ifX0.Dh-8XL71gUhnW10TR5WpBJR-wbW5uSzOlv16CkewKaDs56zs0c_PHTd1wt8qbY2hHpN8Xe37jJKprt9DInbBTtKa82hstIK9EZ1tHYX9pPDoDqup-8LJY7Fn_rbd8cdN4LV6p_8Y8H7MuVI_zm3ub_opori9WHBQfWEaTWEFf0WLAeGeGikCyw_TSBgldZ8YibQ_QNqrnu2qpTbiG-I3eL3RoKbtMJW5s4C_GOyLeQT0fknXHCAL42Glq_bRsHSMUIeyOVPp0UhWvklyXAcsRVBwwP2BIQnFWL0lb9WkLQTk2I-x5xU3P2GjRA3_pj1_UBDb3euaTXOwlkH9x37pvQ",
+        "expirationTime": 1504063423730
+    },
+    "redirectEventId": null
+}
